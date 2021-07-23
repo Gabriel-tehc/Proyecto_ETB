@@ -22,7 +22,7 @@ body{
 
 header{
     height: 100vh;
-    background-image: linear-gradient(120deg, rgba(161, 196, 253, 0.329) 0%, rgba(194, 233, 251, 0.349) 50%), url(../img/4.jpg);
+    background-image: linear-gradient(120deg, rgba(161, 196, 253, 0.329) 0%, rgba(194, 233, 251, 0.349) 50%), url(..//JUAN-HERNANDEZ/4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
